@@ -26,4 +26,4 @@ Which of the following heuristics are admissible (if any)?
 
 > Mà sự điều chỉnh này đảm bảo các phần cụ thể trong tổng thể này đều tốt hơn (trong trường hợp từng phần này là liên hệ với nhau); ý (3), (4)
 
-> Không nên chỉ dựa theo sự chưa đạt được về mặt kết quả để đánh giá; ý (5) 
+> Không nên chỉ dựa theo sự chưa đạt được về mặt kết quả để đánh giá; ý (5)
