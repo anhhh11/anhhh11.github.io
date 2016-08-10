@@ -3,6 +3,7 @@ published: true
 title: Search problem
 layout: post
 ---
+```javascript
 var state, goalState;
 function isAchievedGoal() {
   return initialState === goalState;
@@ -13,6 +14,9 @@ function action(initialState){
   return nextState;
 }
 
-go fn(!isAchievedGoal()){
-  state = action(state)
-}()
+(function(){
+  while(!isAchievedGoal()){
+    state = action(state)
+  }
+}())
+```
