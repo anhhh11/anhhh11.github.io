@@ -1,6 +1,6 @@
 ---
 published: true
-title: Admissible heuristic
+title: Admissible heuristic - General/detail with cooperation
 layout: post
 ---
 Question 6: Hive Minds: Swarm Movement
