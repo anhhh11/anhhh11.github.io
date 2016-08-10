@@ -23,7 +23,5 @@ Which of the following heuristics are admissible (if any)?
 
 
 > Sự điều chỉnh theo kinh nghiệm không nên chỉ dựa theo tổng thể tốt hơn; ý (1),(2)
-
 > Mà sự điều chỉnh này đảm bảo các phần cụ thể trong tổng thể này đều tốt hơn (trong trường hợp từng phần này là liên hệ với nhau); ý (3), (4)
-
-> Không nên chỉ dựa theo sự chưa đạt được về mặt kết quả để đánh giá; ý (5)
+> Không nên chỉ dựa theo sự chưa đạt được về mặt kết quả hiện tại để đánh giá khi mà có những bước tiến ngầm chưa biểu hiện ra ; ý (5)
